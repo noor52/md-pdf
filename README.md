@@ -7,3 +7,5 @@
 3. open "localhost:4000" in a browser
 
 4. print as PDF
+
+### *You must have Jeykll installed*
