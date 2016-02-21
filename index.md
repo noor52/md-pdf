@@ -2,4 +2,3 @@
 layout: default
 ---
 
-# New post
